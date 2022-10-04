@@ -10,7 +10,7 @@ int main(){
 
     int sum = a+b;
 
-    cout<<"sum is : "<<sum<<endl;
-    
+    cout<<"The Total sum is : "<<sum<<endl;
+
     return 0;
 }
