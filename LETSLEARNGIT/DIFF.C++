@@ -7,7 +7,7 @@ int main(){
     int a, b;
     cin>>a>>b;
 
-    cout<<"diff is : "<<a-b<<endl;
-    
+    cout<<"The diff of two number is : "<<a-b<<endl;
+
     return 0;
 }
